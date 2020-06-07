@@ -1,2 +1,2 @@
 # Machine-learning
-### Linear Regression
+### Uni-variate and Multi-variate Linear Regression
